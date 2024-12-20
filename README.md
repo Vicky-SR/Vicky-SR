@@ -1,5 +1,5 @@
 # Hi there! 👋 I'm Vicky  
-### Aspiring Backend Developer 🚀  
+### Aspiring fullstack Developer 🚀  
 - 🎓 Computer Science student at PES College of Engineering, Mandya.  
 - 🌍 Open to working anywhere in the world.  
 - 💻 Skilled in Java, HTML, CSS, and JavaScript.  
@@ -12,5 +12,4 @@
 - **To-Do App**: A task manager app with CRUD operations and REST API.  
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Twitter](https://twitter.com/yourhandle)  
+-   [LinkedIn](https://www.linkedin.com/in/vicky-s1/)
